@@ -1,0 +1,3 @@
+[submodule "Подмодуль"]
+	path = Подмодуль
+	url = https://github.com/OCMINOJEK/additional-repository

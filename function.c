@@ -21,6 +21,13 @@ int NOD(int a, int b){
     }
     return a + b;
 }
+//NEW FIX
+//NEW FIX
+//NEW FIX
+//NEW FIX
+//NEW FIX
+//NEW FIX
+//NEW FIX
 
 int main(int argc, char* argv[]){
     int num, a, b;
